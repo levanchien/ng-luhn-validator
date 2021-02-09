@@ -1,0 +1,27 @@
+{
+  "name": "ng-luhn-validator",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000g\u0000-\u0000l\u0000u\u0000h\u0000n\u0000-\u0000v\u0000a\u0000l\u0000i\u0000d\u0000a\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levanchien/ng-luhn-validator.git"
+  },
+  "author": "Le Van Chien <levanchien95.cit@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levanchien/ng-luhn-validator/issues"
+  },
+  "homepage": "https://github.com/levanchien/ng-luhn-validator#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
