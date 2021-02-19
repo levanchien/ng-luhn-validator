@@ -1,6 +1,7 @@
 {
   "name": "ng-luhn-validator",
-  "version": "1.0.7",
+  "version": "1.0.8",
+  "private": true,
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -15,7 +16,7 @@
     "url": "git+https://github.com/levanchien/ng-luhn-validator.git"
   },
   "author": "Le Van Chien <levanchien95.cit@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/levanchien/ng-luhn-validator/issues"
   },
