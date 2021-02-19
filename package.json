@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/levanchien/ng-luhn-validator/issues"
   },
-  "homepage": "https://github.com/levanchien/ng-luhn-validator#readme",
+  "homepage": "https://github.com/levanchien/ng-luhn-validator",
   "devDependencies": {
     "typescript": "^4.1.3"
   }
