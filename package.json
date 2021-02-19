@@ -1,7 +1,6 @@
 {
   "name": "ng-luhn-validator",
-  "version": "1.0.4",
-  "description": "luhn validator for typescript",
+  "version": "1.0.7",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
