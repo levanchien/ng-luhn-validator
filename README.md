@@ -12,5 +12,6 @@ npm i ng-luhn-validator
 ```typescript
 import { luhnValidate } from 'ng-luhn-validator';
 
-luhnValidate('12345678901234567'); // return true or false
+luhnValidate('1234567890123456'); // return false
+luhnValidate('5233756540063299'); // return true
 ```
