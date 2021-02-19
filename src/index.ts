@@ -1,4 +1,4 @@
-export function checkCreditCard(str: string): boolean {
+export function luhnValidate(str: string): boolean {
     if (!str) {
         str = '';
     }
