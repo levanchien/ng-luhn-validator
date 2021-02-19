@@ -1,1 +1,1 @@
-export declare function checkCreditCard(str: string): boolean;
+export declare function luhnValidate(str: string): boolean;
